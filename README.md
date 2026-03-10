@@ -46,7 +46,7 @@ pip install qiskit qiskit-aer
 ### Run the application:
 
 python Quantum Fraud Prevention Using QKD in Tkinter.py
-### Output
+### Output  
 
 The system displays:
 
@@ -57,5 +57,3 @@ The system displays:
  - Transaction status (Approved / Fraud Detected)
 
 
-
-skit-aer
